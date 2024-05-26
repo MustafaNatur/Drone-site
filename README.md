@@ -1,6 +1,6 @@
 # Drone-site
 
-This is a website about my engineering project that I did at the university in the 1st year. On the site you could find a beautiful animation when scrolling with the mouse wheel. When creating, I was inspired by the [Apple](https://www.apple.com/airpods-pro )
+This is a website about my engineering project that I did at the university in the 1st year. On the site you could find a beautiful animation when scrolling with the mouse wheel
 
 
 ## Animation on the website
