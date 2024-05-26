@@ -8,7 +8,7 @@ This is a website about my engineering project that I did at the university in t
 ![animated demo screenshot](https://github.com/MustafaNatur/Drone-site/blob/main/photos/DroneGif.gif)
 
 
-## Installation
+## How to try?
 
 1. Clone the repo via git clone command.
 ```
